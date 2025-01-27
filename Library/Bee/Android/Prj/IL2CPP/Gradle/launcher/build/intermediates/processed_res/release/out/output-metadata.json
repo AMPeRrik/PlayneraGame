@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.DefaultCompany.com.unity.template.mobile2D",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 100001,
+      "versionName": "1",
+      "outputFile": "resources-armeabi-v7aRelease.ap_"
+    }
+  ],
+  "elementType": "File"
+}

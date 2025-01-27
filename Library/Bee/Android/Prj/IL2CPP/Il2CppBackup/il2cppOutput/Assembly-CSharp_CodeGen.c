@@ -1,0 +1,98 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CameraMove_Awake_m9F54425E7C027E351509A9DBB26433CE88B4129B (void);
+extern void CameraMove_OnBeginDrag_m98400B81D9C6994A71CD2B37CD5F7A8CF2AB0392 (void);
+extern void CameraMove_OnDrag_m0411ABB90B32A5DB0E1A372F28EC184740E55A60 (void);
+extern void CameraMove_OnEndDrag_mF6EB35C28CF117FDB54969571244539805B4258E (void);
+extern void CameraMove_CalculateBoundaryValues_m441F0C5D7CA61715EA5BAE9F3CDA0BA2E315D683 (void);
+extern void CameraMove__ctor_m3BBC2F541B40FB1634F0EA0B844BA27E5DDD9908 (void);
+extern void InteractableItem_Awake_m0914184A3F6E52A8D74EBF4E681765240322D8AB (void);
+extern void InteractableItem_OnPointerDown_mA736FA0E3B73E123719E0DD88F19067DA8A4A3E7 (void);
+extern void InteractableItem_OnPointerUp_m25C676311ECDEA66AD011C420B3310506663F163 (void);
+extern void InteractableItem_OnBeginDrag_m3C052430C413B2A079FB26FA8F624DD7F1F8E32A (void);
+extern void InteractableItem_OnDrag_m2D13C28F172B854D9834603154E94063EBEDCEF6 (void);
+extern void InteractableItem_OnEndDrag_m99D94717CB61525C77578AF79D5C6D021EE530F1 (void);
+extern void InteractableItem_OnTriggerEnter2D_mFBF7DFAFDF839E0364C07716CBDC1C95EEAD62D0 (void);
+extern void InteractableItem_OnTriggerExit2D_mB951A9E0BBEDBEFA8C3E47A65093443342A1C0A9 (void);
+extern void InteractableItem__ctor_m6B19FA82F90286DCF01B0E04F0762D90FFC70A79 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	CameraMove_Awake_m9F54425E7C027E351509A9DBB26433CE88B4129B,
+	CameraMove_OnBeginDrag_m98400B81D9C6994A71CD2B37CD5F7A8CF2AB0392,
+	CameraMove_OnDrag_m0411ABB90B32A5DB0E1A372F28EC184740E55A60,
+	CameraMove_OnEndDrag_mF6EB35C28CF117FDB54969571244539805B4258E,
+	CameraMove_CalculateBoundaryValues_m441F0C5D7CA61715EA5BAE9F3CDA0BA2E315D683,
+	CameraMove__ctor_m3BBC2F541B40FB1634F0EA0B844BA27E5DDD9908,
+	InteractableItem_Awake_m0914184A3F6E52A8D74EBF4E681765240322D8AB,
+	InteractableItem_OnPointerDown_mA736FA0E3B73E123719E0DD88F19067DA8A4A3E7,
+	InteractableItem_OnPointerUp_m25C676311ECDEA66AD011C420B3310506663F163,
+	InteractableItem_OnBeginDrag_m3C052430C413B2A079FB26FA8F624DD7F1F8E32A,
+	InteractableItem_OnDrag_m2D13C28F172B854D9834603154E94063EBEDCEF6,
+	InteractableItem_OnEndDrag_m99D94717CB61525C77578AF79D5C6D021EE530F1,
+	InteractableItem_OnTriggerEnter2D_mFBF7DFAFDF839E0364C07716CBDC1C95EEAD62D0,
+	InteractableItem_OnTriggerExit2D_mB951A9E0BBEDBEFA8C3E47A65093443342A1C0A9,
+	InteractableItem__ctor_m6B19FA82F90286DCF01B0E04F0762D90FFC70A79,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	5060,
+	4050,
+	4050,
+	4050,
+	5060,
+	5060,
+	5060,
+	4050,
+	4050,
+	4050,
+	4050,
+	4050,
+	4050,
+	4050,
+	5060,
+	5060,
+	5060,
+	10175,
+	5060,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
